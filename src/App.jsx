@@ -1,8 +1,8 @@
 import React from 'react'
-
+import Calc from './Calc'
 const App = () => {
   return (
-    <h1>hello</h1>
+    <Calc></Calc>
   )
 }
 
